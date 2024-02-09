@@ -21,13 +21,6 @@
 
 ---
 
-Aquí está la hoja de trucos para los atajos más comunes en Visual Studio Code para cada sistema operativo:
-- Windows.
-- Linux.
-- macOS.
-
----
-
 Aquí te mostramos cómo personalizar visualmente los atajos de teclado paso a paso:
 
 1. Una vez que tengas Visual Studio Code abierto, haz clic en la pestaña Archivo / File en la esquina superior izquierda.
